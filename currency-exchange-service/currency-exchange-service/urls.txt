@@ -1,0 +1,11 @@
+Currency Exchange Service
+http://localhost:8000/currency-exchange/from/USD/to/PLN
+
+Currency Conversion Service
+http://localhost:8100/currency-conversion/from/USD/to/PLN/quantity/10
+
+Eureka
+http://localhost:8761
+
+Api-Gateway
+http://localhost:8765
